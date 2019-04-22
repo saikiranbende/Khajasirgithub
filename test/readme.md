@@ -1,2 +1,2 @@
-Adding one line here also
-addin second line
+<<<<<<< HEAD
+Adding one line here
